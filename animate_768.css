@@ -108,7 +108,7 @@
 @keyframes p {
   100% {left:11rem; top:-9rem;font-size: 3rem;}
 }
- /*     
+      
 .bee3 {
   -webkit-animation-name: bounceInRight, h2;
   -webkit-animation-duration: 4s,1s;
@@ -123,9 +123,9 @@
 }
       
 @keyframes h2 {
-  100% {left:10rem;top:-9rem;font-size: 3rem;}
+  100% {left:4rem;top:-9rem;font-size: 3rem;}
 }
-      
+ /*     
 .bee4 {
   -webkit-animation-name: bounceInUp, h3;
   -webkit-animation-duration: 4s,1s;
