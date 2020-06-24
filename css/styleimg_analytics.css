@@ -20,20 +20,6 @@
 display: none;
 
 }
-.content_heading{
-
-  font-size: 0.95rem;
-  padding-left: 0rem;
-  
-
-}
-
-.desc_area p{
-
-  font-size: 0.75rem !important;
-  text-align: justify;
-  padding-left: 0rem;
-}
 
 .el__bg:before {
     content: "";
