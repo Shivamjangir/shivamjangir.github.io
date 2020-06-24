@@ -89,7 +89,7 @@
 }
 
 @keyframes h1 {
-  100% {left:12rem; top:-9rem;font-size: 3rem;}
+  100% {left:11rem; top:-9rem;font-size: 3rem;}
 }
       
 .bee2 {
@@ -106,7 +106,7 @@
 }
 
 @keyframes p {
-  100% {left:12.18rem; top:-9rem;font-size: 3rem;}
+  100% {left:11.19rem; top:-9rem;font-size: 3rem;}
 }
       
 .bee3 {
@@ -123,7 +123,7 @@
 }
       
 @keyframes h2 {
-  100% {left:10.2rem;top:-9rem;font-size: 3rem;}
+  100% {left:13.34rem;top:-9rem;font-size: 3rem;}
 }
       
 .bee4 {
@@ -140,7 +140,7 @@
 }
       
 @keyframes h3 {
-  100% {left:17.9rem; top:-9rem;font-size: 3rem;}
+  100% {left:15.9rem; top:-9rem;font-size: 3rem;}
 }
       
 .bee5 {
