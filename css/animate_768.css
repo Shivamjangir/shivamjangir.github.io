@@ -227,7 +227,7 @@
 @keyframes h8 {
   100% {left:19rem; top:-9rem;font-size: 3rem;}
 }
-  */ 
+ 
 .bee10 {
   -webkit-animation-name: fadeInRight;
   -webkit-animation-duration: 4s;
@@ -482,3 +482,4 @@
           100% {opacity:0;}
         
         }
+          */
