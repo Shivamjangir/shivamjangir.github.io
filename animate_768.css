@@ -91,7 +91,7 @@
 @keyframes h1 {
   100% {left:11rem; top:-9rem;font-size: 3rem;}
 }
-      
+  /*  
 .bee2 {
   -webkit-animation-name: fadeInDown, p;
   -webkit-animation-duration: 4s,1s;
@@ -227,7 +227,7 @@
 @keyframes h8 {
   100% {left:19rem; top:-9rem;font-size: 3rem;}
 }
-      
+  */ 
 .bee10 {
   -webkit-animation-name: fadeInRight;
   -webkit-animation-duration: 4s;
