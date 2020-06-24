@@ -1,5 +1,3 @@
-
- 
 .wcloudwrds{
   position: absolute;
   color: #fff;
@@ -91,9 +89,9 @@
 }
 
 @keyframes h1 {
-  100% {left:11rem; top:-9rem;font-size: 3rem;}
+  100% {left:12rem; top:-9rem;font-size: 3rem;}
 }
-    
+      
 .bee2 {
   -webkit-animation-name: fadeInDown, p;
   -webkit-animation-duration: 4s,1s;
@@ -108,7 +106,7 @@
 }
 
 @keyframes p {
-  100% {left:11rem; top:-9rem;font-size: 3rem;}
+  100% {left:12.18rem; top:-9rem;font-size: 3rem;}
 }
       
 .bee3 {
@@ -125,9 +123,9 @@
 }
       
 @keyframes h2 {
-  100% {left:4rem;top:-9rem;font-size: 3rem;}
+  100% {left:10.2rem;top:-9rem;font-size: 3rem;}
 }
-    
+      
 .bee4 {
   -webkit-animation-name: bounceInUp, h3;
   -webkit-animation-duration: 4s,1s;
@@ -142,7 +140,7 @@
 }
       
 @keyframes h3 {
-  100% {left:11rem; top:-9rem;font-size: 3rem;}
+  100% {left:17.9rem; top:-9rem;font-size: 3rem;}
 }
       
 .bee5 {
@@ -159,7 +157,7 @@
 }
       
 @keyframes h4 {
-  100% {left:12rem; top:-9rem;font-size: 3rem;}
+  100% {left:20.2rem; top:-9rem;font-size: 3rem;}
 }
 
 .bee6 {
@@ -176,7 +174,7 @@
 }
       
 @keyframes h5 {
-  100% {left:13rem; top:-9rem;font-size: 3rem;}
+  100% {left:11rem; top:-9rem;font-size: 3rem;}
 }
       
 .bee7 {
@@ -193,7 +191,7 @@
 }
       
 @keyframes h6 {
-  100% {left:15rem; top:-9rem;font-size: 3rem;}
+  100% {left:21rem; top:-9rem;font-size: 3rem;}
 }
       
 .bee8 {
@@ -210,7 +208,7 @@
 }
       
 @keyframes h7 {
-  100% {left:17rem; top:-9rem;font-size: 3rem;}
+  100% {left:22rem; top:-9rem;font-size: 3rem;}
 }
       
 .bee9 {
@@ -227,9 +225,9 @@
 }
       
 @keyframes h8 {
-  100% {left:19rem; top:-9rem;font-size: 3rem;}
+  100% {left:20.8rem; top:-9rem;font-size: 3rem;}
 }
- 
+      
 .bee10 {
   -webkit-animation-name: fadeInRight;
   -webkit-animation-duration: 4s;
@@ -484,4 +482,3 @@
           100% {opacity:0;}
         
         }
-        
